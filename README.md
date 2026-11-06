@@ -1,0 +1,2 @@
+# smn-first
+THIS IS MY FIRST GIT REPOSITORY
